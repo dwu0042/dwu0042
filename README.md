@@ -1,7 +1,7 @@
 - 👋 Hi, I’m David Wu, a postdoc at Monash University, Australia
 - 👀 I’m currently working on computational methods for modelling infectious diseases.
 - 📫 Reach out to me via my institutional email
-- ⚡ I'm also on github as @davidjxwu and @dwu402
+- ⚡ I'm also on github as [@davidjxwu](https://github.com/davidjxwu) and [@dwu402](https://github.com/dwu402)
 
 <!---
 dwu0042/dwu0042 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
